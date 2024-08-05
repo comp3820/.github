@@ -13,5 +13,5 @@ Welcome to COMP3820 - Digital Health Software Project.
 - Dr Chelsea Dobbins [UQ Researcher's Profile](https://researchers.uq.edu.au/researcher/23170)
 ### Demontrators
 - Nimesh Garg [Github](https://github.com/nimeshgarg)
-- Raghav Agarwal [Github](https://github.com/NotRaghavAggarwal)
+- Raghav Agarwal [Github](https://github.com/NotRaghavAggarwal) [LinkedIn](https://www.linkedin.com/in/notrag/)
 - Soumen Ghosh
