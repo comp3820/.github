@@ -14,4 +14,4 @@ Welcome to COMP3820 - Digital Health Software Project.
 ### Demontrators
 - Nimesh Garg [Github](https://github.com/nimeshgarg)
 - Raghav Agarwal [Github](https://github.com/NotRaghavAggarwal) [LinkedIn](https://www.linkedin.com/in/notrag/)
-- Soumen Ghosh
+- Soumen Ghosh [Profile](https://sites.google.com/site/soumenca)
