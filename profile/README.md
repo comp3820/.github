@@ -5,13 +5,13 @@ Welcome to COMP3820 - Digital Health Software Project.
 - <comp3820@uq.edu.au>
 
 # Course Profile
-- [2025](https://programs-courses.uq.edu.au/course.html?course_code=COMP3820)
+- [2025](https://course-profiles.uq.edu.au/course-profiles/COMP3820-60550-7560#course-overview)
 
 # Teaching Staff
 ## 2024 Semester 2
 ### Course Coordinator
-- Dr Chelsea Dobbins [UQ Researcher's Profile](https://researchers.uq.edu.au/researcher/23170)
-### Demontrators
+- A/Prof Chelsea Dobbins [UQ Researcher's Profile](https://researchers.uq.edu.au/researcher/23170)
+### Demonstrators
 - Nimesh Garg [Github](https://github.com/nimeshgarg) [LinkedIn](https://www.linkedin.com/in/nimeshgarg/)
 - Raghav Agarwal [Github](https://github.com/NotRaghavAggarwal) [LinkedIn](https://www.linkedin.com/in/notrag/)
 - Soumen Ghosh [Profile](https://sites.google.com/site/soumenca)
