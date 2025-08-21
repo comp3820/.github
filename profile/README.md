@@ -4,8 +4,7 @@ Welcome to COMP3820 - Digital Health Software Project.
 # Course Email
 - <comp3820@uq.edu.au>
 
-# Course Profile
-- [2024](https://course-profiles.uq.edu.au/course-profiles/COMP3820-60577-7460#course-overview)
+# Course Profile (https://programs-courses.uq.edu.au/course.html?course_code=COMP3820)
 
 # Teaching Staff
 ## 2024 Semester 2
